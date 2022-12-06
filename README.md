@@ -1,6 +1,6 @@
 # WeatherApp for IOS
 <h2>What is it?</h2>
-<p>This app is for students who need a good and beautiful timetable app. It was created for the reason that my university didn’t make an application and it’s very inconvenient to track the schedule, so I decided to combine my Swift learning with the useful one and create this application, with the ability to turn on background music:)</p>
+<p>This application shows the weather according to your current location. This application was written in SwiftUI, using the weather API. It was mainly developed for learning and testing, which is why it is so simple.</p>
 <h2>Installation</h2>
 <p>Unfortunately, a full installation is not possible now, because this application is not posted in the AppStore. But if you really want to try it, then you should:</p>
   <ol>
@@ -12,7 +12,7 @@
   </ol>
   <p>This application will appear on your iPhone, but after about 7 days it will be blocked and you will have to reconnect the iPhone and run the project again</p>
 <h2>User Guide</h2>
-<p></p>
+<p>All you need to do is launch the application and grant access to the location</p>
 <h2>Pictures</h2>
 <div>
   <p>
