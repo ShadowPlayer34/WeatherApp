@@ -16,7 +16,7 @@
 <h2>Pictures</h2>
 <div>
   <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src = "https://user-images.githubusercontent.com/61494312/205929730-12bb3170-caba-4e08-85f8-3e4a2e6c2453.png", width = 242.5px, heigth = 583px, margin-rigth = 20px>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src = "https://user-images.githubusercontent.com/61494312/205929846-9aecdfd4-a068-405d-9b90-d23be60dfe1b.png", width = 242.5px, heigth = 583px, margin-rigth = 20px>
